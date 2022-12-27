@@ -1,11 +1,12 @@
 .main-header{
-    background: url(../FINAL-WEBSITE/Final\ Image/);
+    background: url(../FINAL-WEBSITE/Final-Image/bg.jpg);
     min-height: 600px;
     background-size: cover;
-    background-position: center;
+    background-position: left;
     color: #fff;
 }
 
 .main-header .showcase{
-    padding-top: 50px;
+    padding-top: 100px;
 }
+
