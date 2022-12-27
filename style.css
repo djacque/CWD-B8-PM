@@ -1,0 +1,11 @@
+.main-header{
+    background: url(../CWD-B8-PM/Images/Place1.jpg);
+    min-height: 600px;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.main-header .showcase{
+    padding-top: 50px;
+}
