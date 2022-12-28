@@ -1,5 +1,5 @@
 .main-header{
-    background: url(../MY-WEBSITE/Final-Image/bg.jpg);
+    background: url(/MY-WEBSITE/Final-Image/bg.jpg);
     min-height: 600px;
     background-size: cover;
     background-position: center;
