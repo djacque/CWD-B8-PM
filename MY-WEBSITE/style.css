@@ -1,12 +1,16 @@
 .main-header{
-    background: url(/MY-WEBSITE/Final-Image/bg.jpg);
+    background: url(../MY-WEBSITE/Final-Image/bg.jpg);
     min-height: 600px;
     background-size: cover;
     background-position: center;
     color:#fff;
 
 }
-
 .main-header .showcase{
-    padding-top: 100px;
+    padding-top: 200px;
+}
+
+.collapsible-header{
+    min-height: 50px;
+    background-position: center;
 }
