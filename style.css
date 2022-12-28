@@ -1,5 +1,5 @@
 .main-header{
-    background: url(../CWD-B8-PM/Images/Place1.jpg);
+    background: url(../CWD-B8-PM/Final-Image/bg.jpg);
     min-height: 600px;
     background-size: cover;
     background-position: center;
@@ -7,5 +7,5 @@
 }
 
 .main-header .showcase{
-    padding-top: 50px;
+    padding-top: 100px;
 }
